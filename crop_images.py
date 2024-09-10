@@ -10,8 +10,8 @@ from PIL import Image
 import os
 
 # Set the input and output folder paths
-input_folder = 'C:/Users/cpignonm/ownCloud/tests_python/crop_image/anim_12h_15min'
-output_folder = 'C:/Users/cpignonm/ownCloud/tests_python/crop_image/anim_12h_15min/cropped_images/'
+input_folder = 'C:/Users/xxxx/images'
+output_folder = 'C:/Users/xxxx/cropped_images/'
 
 # Check the output folder 
 os.makedirs(output_folder, exist_ok=True)
