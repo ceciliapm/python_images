@@ -8,7 +8,7 @@ from PIL import Image
 import os
 
 # Set the folder path containing your image files
-input_folder = 'C:/Users/cpignonm/ownCloud/tests_python/crop_image/anim_12h_15min/cropped_images'
+input_folder = 'C:/Users/xxxx/cropped_images'
 
 # List to store image files
 image_files = []
