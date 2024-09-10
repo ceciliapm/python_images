@@ -1,4 +1,4 @@
-# Add copyright automatically to all images in a folder 
+# Add copyright automatically to all images in a folder (LIENSs - Cécilia)
 from PIL import Image, ImageDraw, ImageFont
 import os
 
