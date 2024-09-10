@@ -1,14 +1,15 @@
+# Add copyright automatically to all images in a folder 
 from PIL import Image, ImageDraw, ImageFont
 import os
 
 # Input folder containing images
-input_folder = 'C:/Users/cpignonm/ownCloud/tests_python/copyright_image/Thierry'
+input_folder = 'C:/Users/xxxx/images'
 
 # Output folder to save the edited images
-output_folder = 'C:/Users/cpignonm/ownCloud/tests_python/copyright_image/copyright_add/Thierry'
+output_folder = 'C:/Users/xxxx/copyright_images'
 
 # Text to add to the images
-text_to_add = "© LIENSs - T. GUYOT"
+text_to_add = "© LIENSs - NAME"
 
 # Font settings
 font_size = 36
